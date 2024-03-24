@@ -1,0 +1,11 @@
+/* App.css */
+
+.App {
+  text-align: center;
+  background-color: black;
+  height: 100vh;
+  display: flex;
+  align-content: center;
+}
+
+
